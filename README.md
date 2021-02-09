@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🐙 Emacs Users Rule 🐙
+
+
+Links:
+ - Google Scholar: https://rebrand.ly/jacob_motley
