@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+flag1: Y2F0Yi5vcmcvfmVzci8=
+
+TROGDOR!
 -->
 
 🐙 Emacs Users Rule 🐙
