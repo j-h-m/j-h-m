@@ -1,4 +1,4 @@
-### Hello World 👋
+### You will be assimilated. Resistance is futile. (•_¤)
 
 <!--
 **j-h-m/j-h-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,7 @@ flag1: Y2F0Yi5vcmcvfmVzci8=
 TROGDOR!
 -->
 
-🐙 Emacs Users Rule 🐙
-
-
 Links:
+ - LinkedIn: https://www.linkedin.com/in/jacob-motley
+ - Website: https://j-h-m.github.io
  - Google Scholar: https://rebrand.ly/jacob_motley
