@@ -1,4 +1,4 @@
-### You will be assimilated. Resistance is futile. (•_¤)
+<h1 align="center">You will be assimilated. Resistance is futile. (•_¤)</h1>
 
 <!--
 **j-h-m/j-h-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,9 @@ flag1: Y2F0Yi5vcmcvfmVzci8=
 TROGDOR!
 -->
 
-Links:
- - <a rel="nofollow noopener noreferrer" target="_blank" href="https://j-h-m.github.io/resume/current.pdf">Resume</a>
- - LinkedIn: https://www.linkedin.com/in/jacob-motley
- - Website: https://j-h-m.github.io
- - Google Scholar: https://rebrand.ly/jacob_motley
+<ul align="center">
+ <li> <a rel="nofollow noopener noreferrer" target="_blank" href="https://j-h-m.github.io/resume/current.pdf">Resume</a></li>
+ <li>LinkedIn: https://www.linkedin.com/in/jacob-motley</li>
+ <li>Website: https://j-h-m.github.io</li>
+ <li>Google Scholar: https://rebrand.ly/jacob_motley</li>
+</ul>
