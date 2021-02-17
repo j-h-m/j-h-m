@@ -20,6 +20,7 @@ TROGDOR!
 -->
 
 Links:
+ - <a rel="nofollow noopener noreferrer" target="_blank" href="https://j-h-m.github.io/resume/current.pdf">Resume</a>
  - LinkedIn: https://www.linkedin.com/in/jacob-motley
  - Website: https://j-h-m.github.io
  - Google Scholar: https://rebrand.ly/jacob_motley
