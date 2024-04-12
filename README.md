@@ -20,7 +20,7 @@ TROGDOR!
 -->
 
 <ul align="left">
- <li> <a rel="nofollow noopener noreferrer" target="_blank" href="https://j-h-m.github.io/resume/current.pdf">Resume</a></li>
+ <li>Resume: <a rel="nofollow noopener noreferrer" target="_blank" href="https://j-h-m.github.io/resume/current.pdf">Jacob Motley</a></li>
  <li>LinkedIn: https://www.linkedin.com/in/jacob-motley</li>
  <li>Website: https://j-h-m.github.io</li>
  <li>Google Scholar: https://rebrand.ly/jacob_motley</li>
